@@ -37,7 +37,12 @@ Implementing these techniques could potentially improve performance:
 - Learning Rate: 0.001
 
 
-## Results and Future Work
+## Results
 The current configuration solved the task in 410 episodes.
-<img src="13-avg.png" width="400" height="260" />
-<img src="13-total.png" width="400" height="260" />
+
+<table>
+  <tr>
+    <td><img src="13-avg.png" width="400" height="260" /></td>
+    <td><img src="13-total.png" width="400" height="260" /></td>
+  </tr>
+</table>
