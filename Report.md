@@ -1,4 +1,4 @@
-## DRL - Double DQN - Navigation Control
+## DRL - DQN - Navigation Control
 
 #### Model Architecture
 
