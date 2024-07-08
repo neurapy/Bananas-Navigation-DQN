@@ -21,7 +21,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic. In order to solve the environment, the agent must get an average score of at least +13 over 100 consecutive episodes.
 
-### Agent
+## Agent
 
 To solve the enviroment the Agent uses a Deep Q-Network with the following techniques:
 
